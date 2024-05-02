@@ -8,3 +8,4 @@ Ele está disponibilizado aqui como uma recordação dos scrips usados em aula, 
 - **C#**: Uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET.
 ### Funcionalidades 
 - **Filtragem**: Métodos de filtragem aplicados até o momento - Where.
+- **Projeção**: Métodos de filtragem aplicados até o momento - Select.
