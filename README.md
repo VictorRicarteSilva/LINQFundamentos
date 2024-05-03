@@ -1,4 +1,4 @@
-# Estudos Pessoas sobre LINQ
+# Estudos Pessoais sobre LINQ
 #### Material de apoio: [Playlist](https://www.youtube.com/playlist?list=PLJ4k1IC8GhW0yky43O7TeNwRvaVrHdOmJ)
 Meus agradecimentos ao professor Jose Carlos Macoratti pelas aulas.
 ### Sobre o Projeto
